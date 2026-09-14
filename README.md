@@ -5,7 +5,7 @@ Homebrew casks for [Capy](https://capy.ai/).
 ## Install
 
 ```sh
-brew install --cask scrapybara/capy/capy
+brew install --cask scrapybara/tap/capy
 ```
 
 ## Update
