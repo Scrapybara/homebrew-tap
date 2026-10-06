@@ -1,9 +1,9 @@
 cask "capy" do
   arch arm: "arm64", intel: "x64"
 
-  version "0.4.3"
-  sha256 arm:   "d74c1fce30f35ef6cd1595e5a01834c0a9c3a2ff8b8c092e6a418996d34d2436",
-         intel: "632c7930e6b957e687106c4254b9cb14c6f94188a40e25a2a89087d2968de1c9"
+  version "0.4.4"
+  sha256 arm:   "c518874d06cb0d8e100594cffe28c74812dd2e8e52bede6d872735061a269318",
+         intel: "74f4489887ba17b661a09e974afe6e9464a50ee917802ba36fc9d36d42377fe6"
 
   url "https://downloads.capy.ai/stable/Capy-#{version}-#{arch}.dmg"
   name "Capy"
