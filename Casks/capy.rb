@@ -7,7 +7,7 @@ cask "capy" do
 
   url "https://downloads.capy.ai/stable/Capy-#{version}-#{arch}.dmg"
   name "Capy"
-  desc "AI software engineer that plans, builds, and ships with parallel coding agents"
+  desc "AI software engineer"
   homepage "https://capy.ai/"
 
   livecheck do
